@@ -1,6 +1,6 @@
 ### Oi, aqui é a Tais!
 ##
-⚡ Desenvolvedora Full Stack em formação na Cubos Academy <br>
+⚡ Desenvolvedora Full Stack em formação na Cubos Academy, em busca da 1ª oportunidade como Dev Front-end junior <br>
 
 📍 Indo pra 2ª transição de carreira (Química > Marketing > IT)
 
