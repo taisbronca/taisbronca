@@ -2,7 +2,7 @@
 ##
 ⚡ Desenvolvedora Full Stack em formação na Cubos Academy, em busca da 1ª oportunidade como Dev Front-end junior <br>
 
-📍 Indo pra 2ª transição de carreira (Química > Marketing > IT)
+📍 2ª transição de carreira (Química > Marketing > IT)
 
 
 
