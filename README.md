@@ -1,9 +1,8 @@
-### Oi, aqui é a Tais!
+### Hi!
 ##
-⚡ Desenvolvedora Full Stack em formação na Cubos Academy, em busca da 1ª oportunidade como Dev Front-end junior <br>
-
-📍 2ª transição de carreira (Química > Marketing > IT)
-
+⚡ Full Stack developer student at Cubos Academy - balancing frontend skills with backend bugs.<br>
+⚡ Enthusiast of React.js.<br>
+⚡ Collector of memes in my spare time. <br>
 
 
 <div align="center">
@@ -13,7 +12,7 @@
 </div>
 
 ##
-### O que estou aprendendo no Curso da Cubos:
+### What I am learning at Cubos Academy:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="catatau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +23,7 @@
 </div>
   
 ##
-### Entre em contato comigo 👇
+### Contact me 👇
   
 <div> 
   <a href ="mailto:taisbronca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
