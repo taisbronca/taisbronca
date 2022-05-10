@@ -1,5 +1,5 @@
 ⚡ Full Stack developer student at Cubos Academy - frontend skills with backend bugs.<br>
-⚡ Enthusiast of React.js.<br>
+⚡ React enthusiast.<br>
 ⚡ Collector of memes in my spare time. <br>
 
 
