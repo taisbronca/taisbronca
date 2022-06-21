@@ -1,4 +1,4 @@
-⚡ Full Stack developer student at Cubos Academy - frontend skills with backend bugs.<br>
+⚡ Full Stack developer - frontend skills with backend bugs.<br>
 ⚡ React enthusiast.<br>
 ⚡ Collector of memes in my spare time. <br>
 
@@ -10,7 +10,7 @@
 </div>
 
 ##
-### What I am learning at Cubos Academy:
+### What I am learning:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="catatau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +18,7 @@
   <img align="center" alt="catatau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="catatau-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="catatau-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="catatau-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
   
 ##
