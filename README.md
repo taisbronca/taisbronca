@@ -1,6 +1,6 @@
 ⚡ Full Stack developer - frontend skills with backend bugs.<br>
 ⚡ React enthusiast.<br>
-⚡ Collector of memes in my spare time. <br>
+⚡ Memes collector in my spare time. <br>
 
 
 <div align="center">
