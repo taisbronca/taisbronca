@@ -1,7 +1,12 @@
-⚡ Full Stack developer - frontend skills with backend bugs.<br>
-⚡ React enthusiast.<br>
-⚡ Memes collector in my spare time. <br>
+Creative and passionate about marketing, curious about technology and development, I currently study and develop projects using HTML, CSS, JavaScript and React.js, Typescript, Next.js. I am:<br><br>
 
+- Full Stack developer - frontend skills with backend bugs.<br>
+- React enthusiast.<br>
+- Collector of memes in my spare time.<br>
+- Graduated in Chemistry from UFSCar with an MBA in Marketing from USP.<br><br>
+
+Also, I have experience in marketing and sales (through agency, production and autonomous life) working in multidisciplinary teams, as well as excellent communication skills.
+##
 
 <div align="center">
   <a href="https://github.com/taisbronca">
@@ -10,7 +15,6 @@
 </div>
 
 ##
-### What I am learning:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="catatau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
