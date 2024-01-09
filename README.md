@@ -1,8 +1,8 @@
 Creative and passionate about marketing, curious about technology and development, I currently study and develop projects using HTML, CSS, JavaScript and React.js, Typescript, Next.js. I am:<br><br>
 
-- Frontend developer at MCassab.<br>
-- React enthusiast.<br>
-- Graduated in Chemistry from UFSCar with an MBA in Marketing from USP.<br><br>
+- Frontend developer at MCassab<br>
+- React enthusiast<br>
+- Graduated in Chemistry from UFSCar with an MBA in Marketing from USP<br><br>
 
 Also, I have experience in marketing and sales (through agency, production and autonomous life) working in multidisciplinary teams, as well as excellent communication skills.
 ##
