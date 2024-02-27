@@ -3,22 +3,22 @@ As a dedicated Junior Front-end Developer at MCassab, I'm tasked with pitching i
 In this role, I actively collaborate with cross-functional teams, employing my skills in communication to bridge the gap between development and business objectives. My experience in marketing and sales, gained through agency, production, and autonomous ventures, provides me with a holistic understanding of project requirements and user needs.
 
 Technical Habilities:
-• ReactJS;
-• HTML | CSS;
-• NextJS;
-• Git;
-• Chakra-UI;
-• Storybook;
+- ReactJS;
+- HTML | CSS;
+- NextJS;
+- Git;
+- Chakra-UI;
+- Storybook;
 
 Tools:
-• Visual Studio Code;
-• Github;
+- Visual Studio Code;
+- Github;
 
 Personal Qualities:
-• Fast learner;
-• Good in troubleshooting;
-• Customer experience;
-• Good to give and receive feedbacks;
+- Fast learner;
+- Good in troubleshooting;
+- Customer experience;
+- Good to give and receive feedbacks;
 ##
 
 <div align="center">
