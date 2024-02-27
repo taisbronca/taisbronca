@@ -1,10 +1,24 @@
-Creative and passionate about marketing, curious about technology and development, I currently study and develop projects using HTML, CSS, JavaScript and React.js, Typescript, Next.js. I am:<br><br>
+As a dedicated Junior Front-end Developer at MCassab, I'm tasked with pitching in on the development of our internal CRM. Two years experience in React.js, TypeScript, and Styled Components, I contribute to the development of a dynamic and responsive user interface, ensuring a seamless experience for our sales team.
 
-- Frontend developer at MCassab<br>
-- React enthusiast<br>
-- Graduated in Chemistry from UFSCar with an MBA in Marketing from USP<br><br>
+In this role, I actively collaborate with cross-functional teams, employing my skills in communication to bridge the gap between development and business objectives. My experience in marketing and sales, gained through agency, production, and autonomous ventures, provides me with a holistic understanding of project requirements and user needs.
 
-Also, I have experience in marketing and sales (through agency, production and autonomous life) working in multidisciplinary teams, as well as excellent communication skills.
+Technical Habilities:
+• ReactJS;
+• HTML | CSS;
+• NextJS;
+• Git;
+• Chakra-UI;
+• Storybook;
+
+Tools:
+• Visual Studio Code;
+• Github;
+
+Personal Qualities:
+• Fast learner;
+• Good in troubleshooting;
+• Customer experience;
+• Good to give and receive feedbacks;
 ##
 
 <div align="center">
