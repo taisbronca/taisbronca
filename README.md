@@ -1,6 +1,5 @@
-As a dedicated Junior Front-end Developer at MCassab, I'm tasked with pitching in on the development of our internal CRM. Two years experience in React.js, TypeScript, and Styled Components, I contribute to the development of a dynamic and responsive user interface, ensuring a seamless experience for our sales team.
-
-In this role, I actively collaborate with cross-functional teams, employing my skills in communication to bridge the gap between development and business objectives. My experience in marketing and sales, gained through agency, production, and autonomous ventures, provides me with a holistic understanding of project requirements and user needs.
+Hi! I'm Tais :)
+I'm a self-taught Front-end developer from Brazil.
 
 Technical Habilities:
 - ReactJS;
