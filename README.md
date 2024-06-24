@@ -6,6 +6,7 @@ Technical Habilities:
 - ReactJS;
 - HTML | CSS;
 - NextJS;
+- MongoDB
 - Git;
 - Chakra-UI;
 - Storybook;
