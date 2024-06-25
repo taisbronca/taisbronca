@@ -2,16 +2,7 @@ Hi! I'm Tais :)
 
 I'm a self-taught Front-end developer from Brazil.
 
-Technical Habilities:
-- ReactJS;
-- HTML | CSS;
-- NextJS;
-- MongoDB
-- Git;
-- Chakra-UI;
-- Storybook;
-
-### Let's connect 👇
+### Let's connect
   
 <div> 
   <a href ="mailto:taisbronca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
