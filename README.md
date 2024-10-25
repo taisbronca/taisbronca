@@ -1,6 +1,6 @@
 Hey! I'm Tais Bronca (:
 
-## 📊 GitHub Stats
+##
 
 <div align="center">
   <a href="https://github.com/taisbronca">
