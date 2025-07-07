@@ -1,4 +1,5 @@
 Hey! I'm Tais Bronca (:
+Software Developer with 3+ years of experience specializing in front-end development. Most of my experience has been working with JavaScript and React, but I've also built cross-platform apps with Flutter, and worked with Node and Next.js. Merges hands-on technical skills with deep marketing and sales insight to build user-centric solutions. 
 ###
   
 <div> 
