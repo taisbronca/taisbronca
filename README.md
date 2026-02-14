@@ -1,12 +1,4 @@
-Hi! I'm Tais (:
-
-Collaborative and results-driven developer with experience building scalable web and mobile applications. Strong background in JavaScript, React, Next.js, and Flutter, delivering performant and user-friendly interfaces.
-
-Highlights:
-- POS & Integrations: developed solutions for payment terminals and acquirers (Ingenico DX8000, Fiserv, Stone), ensuring secure and resilient transactions.
-- Frontend & UX: designed responsive, consistent interfaces focused on usability and performance.
-- Full-stack: integrated RESTful APIs and Java microservices with Node.js and MongoDB.
-- Collaboration: experienced in Agile (Scrum), code reviews, and peer mentoring.
+Hi! I'm Tais.
 
 I'm passionate about crafting intuitive user experiences, and continuously improving team workflows through open communication. 
 ###
