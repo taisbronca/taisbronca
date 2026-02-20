@@ -5,7 +5,7 @@ I'm passionate about crafting intuitive user experiences, and continuously impro
 
 <div align="center">
   <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=taisbronca&show_icons=true&theme=dracula" />
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taisbronca&layout=compact&theme=dracula" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=taisbronca&theme=dracula" />
 </div>
 
 ##
