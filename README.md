@@ -4,7 +4,11 @@ I'm passionate about crafting intuitive user experiences, and continuously impro
 ###
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=taisbronca&theme=dracula" />
+  <img height="170" src="https://streak-stats.demolab.com?user=taisbronca&theme=dracula" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=taisbronca&color=blueviolet" />
 </div>
 
 ##
