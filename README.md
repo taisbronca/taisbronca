@@ -5,8 +5,9 @@ I'm passionate about crafting intuitive user experiences, and continuously impro
 
 <div align="center">
   <a href="https://github.com/taisbronca">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taisbronca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisbronca&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taisbronca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisbronca&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ##
