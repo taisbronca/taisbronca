@@ -2,13 +2,6 @@ Hi! I'm Tais.
 
 I'm passionate about crafting intuitive user experiences, and continuously improving team workflows through open communication. 
 ###
-  
-<div>
-  <a href="https://www.linkedin.com/in/tais-bronca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-
-##
 
 <div align="center">
   <a href="https://github.com/taisbronca">
