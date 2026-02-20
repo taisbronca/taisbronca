@@ -4,10 +4,8 @@ I'm passionate about crafting intuitive user experiences, and continuously impro
 ###
 
 <div align="center">
-  <a href="https://github.com/taisbronca">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taisbronca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisbronca&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taisbronca&show_icons=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisbronca&layout=compact&theme=dracula"/>
 </div>
 
 ##
@@ -20,6 +18,7 @@ I'm passionate about crafting intuitive user experiences, and continuously impro
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 
 
