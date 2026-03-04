@@ -6,16 +6,6 @@ I like turning messy workflows into simple solutions — and making products tha
 
 ---
 
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=taisbronca&theme=dracula" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=taisbronca&color=blueviolet" />
-</div>
-
----
-
 ### Tech I work with
 
 <div align="center"><br>
